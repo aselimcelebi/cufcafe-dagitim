@@ -1,0 +1,20 @@
+{
+  "v": 1,
+  "guncelleme": "2026-10-18T18:24:10.091Z",
+  "reklamlar": [
+    {
+      "id": "rmve5ms88",
+      "ad": "Xbase",
+      "tur": "gorsel",
+      "dosya": "reklam/rmve5ms88.png",
+      "sha256": "09cf0990e6405e2160addcb0e79a9291be7f5119dbb8cc95c4b92b8b431f6116",
+      "boyut": 5112094,
+      "sure": 10,
+      "link": "https://sunboris.com",
+      "baslangic": null,
+      "bitis": "2026-11-30",
+      "agirlik": 1
+    }
+  ],
+  "imza": "SGElAOBsYTmvcjgLXcJlb96yczyFluPl+zthGQ3BYCrnuLdPKlI9/54HKxwEs7ffFOeh7TUMJHgt2v1iIcb2Aw=="
+}
